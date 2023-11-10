@@ -38,6 +38,20 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+1- Create the the background style 
+2- Card nesting structure
+    container{
+      // Elements inside are all diplayed as blocks
+      Image{
+
+      }
+      Title{
+
+      }
+      Summary{
+
+      }
+    }
 ### Built with
 
 - Semantic HTML5 markup
